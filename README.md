@@ -1,7 +1,6 @@
-## lista-noticias
+## List News Morden Pages SharePoint
 
-This is where you include your WebPart documentation.
-This webpart get de news in the sitepages and show the tabular data.
+This webpart obtains news from sitepages and displays it in tabular format.
 
 ### Building the code
 
