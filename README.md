@@ -1,4 +1,4 @@
-## List News Morden Pages SharePoint
+## List News Modern Pages SharePoint
 
 This webpart obtains news from sitepages and displays it in tabular format.
 
