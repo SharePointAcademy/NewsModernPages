@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "lista-noticias-client-side-solution",
+    "id": "2d70cd90-a46c-43ac-b237-2de1a970b3a9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/lista-noticias.sppkg"
+  }
+}
